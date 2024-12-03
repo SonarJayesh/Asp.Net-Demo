@@ -1,0 +1,5 @@
+C:\jayeshAsp.net\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.exe
+C:\jayeshAsp.net\Armstrong_Number\Armstrong_Number\bin\Debug\Armstrong_Number.pdb
+C:\jayeshAsp.net\Armstrong_Number\Armstrong_Number\obj\Debug\ResolveAssemblyReference.cache
+C:\jayeshAsp.net\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.exe
+C:\jayeshAsp.net\Armstrong_Number\Armstrong_Number\obj\Debug\Armstrong_Number.pdb
