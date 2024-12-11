@@ -1,0 +1,7 @@
+C:\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\obj\Debug\ResolveAssemblyReference.cache
+C:\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\bin\Debug\PrimeNumber_Or_Not.exe
+C:\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\bin\Debug\PrimeNumber_Or_Not.pdb
+C:\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\obj\Debug\PrimeNumber_Or_Not.exe
+C:\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\obj\Debug\PrimeNumber_Or_Not.pdb
+C:\Jayesh Codding Language\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\obj\Debug\PrimeNumber_Or_Not.exe
+C:\Jayesh Codding Language\jayeshAsp.net\PrimeNumber_Or_Not\PrimeNumber_Or_Not\obj\Debug\PrimeNumber_Or_Not.pdb
