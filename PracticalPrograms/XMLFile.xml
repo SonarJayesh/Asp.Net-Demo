@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Facebook.png</ImageUrl>
+    <NavigateUrl>https://infoGalaxy.com</NavigateUrl>
+    <Impression>80</Impression>
+    <Width>200 </Width>
+    <Hight>300 </Hight>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Instagram.jpeg</ImageUrl>
+    <NavigateUrl>https://infoGalaxy.com</NavigateUrl>
+    <Impression>20</Impression>
+    <Width>200 </Width>
+    <Hight>300</Hight>
+  </Ad>
+  
+</Advertisements>
