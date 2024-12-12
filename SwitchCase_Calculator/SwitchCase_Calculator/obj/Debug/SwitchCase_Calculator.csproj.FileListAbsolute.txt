@@ -1,0 +1,5 @@
+C:\jayeshAsp.net\SwitchCase_Calculator\SwitchCase_Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\jayeshAsp.net\SwitchCase_Calculator\SwitchCase_Calculator\bin\Debug\SwitchCase_Calculator.exe
+C:\jayeshAsp.net\SwitchCase_Calculator\SwitchCase_Calculator\bin\Debug\SwitchCase_Calculator.pdb
+C:\jayeshAsp.net\SwitchCase_Calculator\SwitchCase_Calculator\obj\Debug\SwitchCase_Calculator.exe
+C:\jayeshAsp.net\SwitchCase_Calculator\SwitchCase_Calculator\obj\Debug\SwitchCase_Calculator.pdb
