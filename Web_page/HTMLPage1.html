@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Student Login Page</title>
+</head>
+<body>
+    <script>
+            function mydata()
+            {
+            var a= document.getElementById("n1").value;
+            var b= document.getElementById("n2").value;
+            
+            if(a==" " || b==" ")
+            {
+                alert("All field are Mendatory");
+                return false;
+            }
+            else
+            {
+                true;
+            }
+         }   
+    </script>
+
+
+    <form onsubmit="return mydata()" action="HTMLPage2.html" style="width: 769px">
+        <h1> Student Login Page</h1>
+        UserName: <input type="text" id="n1"><br><br>
+        PassWord: <input type="password" id="n2"><br><br>
+        <input type="submit" value="Login">
+    </form>
+
+</body>
+</html>

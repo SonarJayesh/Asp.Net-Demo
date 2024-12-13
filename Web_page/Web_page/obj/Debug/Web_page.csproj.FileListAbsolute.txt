@@ -1,0 +1,5 @@
+C:\jayeshAsp.net\Web_page\Web_page\obj\Debug\ResolveAssemblyReference.cache
+C:\jayeshAsp.net\Web_page\Web_page\bin\Web_page.aspx.dll
+C:\jayeshAsp.net\Web_page\Web_page\bin\Web_page.aspx.pdb
+C:\jayeshAsp.net\Web_page\Web_page\obj\Debug\Web_page.aspx.dll
+C:\jayeshAsp.net\Web_page\Web_page\obj\Debug\Web_page.aspx.pdb
